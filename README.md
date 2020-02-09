@@ -1,2 +1,4 @@
 # hello-world
-just  another repository
+hiiiii~
+
+I am an alien just observe the earth
